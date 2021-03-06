@@ -1,4 +1,4 @@
-# bottom_nevigationbar
+# BottomNavigationBar in flutter
 
 this is a bottom nevigation bar preoject
 
